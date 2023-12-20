@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VA Test</string>
+    <string name="trip_count">Total no. of trips: %d</string>
+</resources>
